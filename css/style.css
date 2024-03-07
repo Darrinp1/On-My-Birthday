@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
+    background-color: #474448;
 }
 
 li {
@@ -23,7 +23,7 @@ li a:hover {
 }
 
 body {
-    background-color: white;
+    background-color:#E0DDCF ;
   }
 
   .button-name {
@@ -43,8 +43,8 @@ body {
     line-height: 1;
     list-style: none;
     overflow: hidden;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 122px;
+    padding-right: 122px;
     position: relative;
     text-align: left;
     text-decoration: none;
@@ -80,10 +80,17 @@ body {
   .header {
     padding: 60px;
     text-align: center;
-    background: #1abc9c;
-    color: white;
+    background: #2D232E;
+    color: #F1F0EA;
     font-size: 30px;
   }
   
   /* Page Content */
   .content {padding:20px;}
+  p{
+    text-align: center;
+  }
+
+  P{
+    font-size: 29px;
+  }
